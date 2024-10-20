@@ -1,0 +1,17 @@
+node_modules/
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+.env
+~/.dbconfig
+~/.bashrc
+~/.bash_profile
+~/.bash_logout
+~/.zshrc
+~/.profile
+~/.vimrc
+~/.gitconfig
+~/.ssh
+~/.aws
+.vercel
